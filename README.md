@@ -1,7 +1,7 @@
 # School Management Software
 
-**Author:** : Kunal (Github id :Kunal-R-Kumar)
-**Email:** kkumar021104@gmail.com
+**Author:** : Kunal (Github id :[Kunal-R-Kumar]([url](https://github.com/Kunal-R-kumar)))
+**Email:** [kkumar021104@gmail.com](mailto:kkumar021104@gmail.com)
 **Language:** Python
 **Lines of Code:** 1950
 **Functions:** 47
@@ -152,5 +152,5 @@ The code is **modular**, making it easy to understand and extend. Functions are 
 
 ## **Contact**
 
-* **Author:** Kunal (Github id : [Kunal-R-Kumar]([url](https://github.com/Kunal-R-kumar)))
+* **Author:** Kunal (Github id : [Kunal-R-Kumar]([url](https://github.com/Kunal-R-kumar)) )
 * **Email:** [kkumar021104@gmail.com](mailto:kkumar021104@gmail.com)
